@@ -39,9 +39,12 @@ Para descargar el proyecto, haz clic [aquí]([enlace al proyecto](https://github
 -	Spring
 -	MySQL
 Este proyecto parece ser una aplicación de gestión hospitalaria completa que ofrece una variedad de funcionalidades esenciales, incluyendo autenticación y gestión de usuarios, médicos y pacientes.
-![Diseño sin título (2)](https://github.com/Engineer-Lemus/ApiRestClinica/assets/125107773/ee562a88-24b8-4ff5-b85b-aab00fb0edbb)
-
-
 
 AUTOR:  Daniel Martin Lemus De Aguinaga
+
+
+
+
+
+![Diseño sin título (2)](https://github.com/Engineer-Lemus/ApiRestClinica/assets/125107773/ee562a88-24b8-4ff5-b85b-aab00fb0edbb)
 
