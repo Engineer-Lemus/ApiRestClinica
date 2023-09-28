@@ -82,9 +82,9 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-test</artifactId>
+			<version>6.2.0-M2</version>
 			<scope>test</scope>
 		</dependency>
-
 	</dependencies>
 
 	<build>
