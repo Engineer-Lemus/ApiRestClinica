@@ -1,5 +1,5 @@
 
-**API clínica **
+**API Clínica **
 Se trata de una API Rest de un sistema hospitalario desarrollado en Java, Spring y MySQL. El sistema permite el registro, actualización, listado y eliminación de pacientes, médicos, usuarios y consultas. Además, ofrece autenticación mediante tokens y puede ser implementado localmente.
 
 ⚒️ Funcionalidades del Proyecto
@@ -39,6 +39,7 @@ Para descargar el proyecto, haz clic [aquí]([enlace al proyecto](https://github
 -	Spring
 -	MySQL
 Este proyecto parece ser una aplicación de gestión hospitalaria completa que ofrece una variedad de funcionalidades esenciales, incluyendo autenticación y gestión de usuarios, médicos y pacientes.
+![Diseño sin título (1)](https://github.com/Engineer-Lemus/ApiRestClinica/assets/125107773/a311bb03-82a2-49a2-95dd-2cd0f1b24c58)
 
 AUTOR:  Daniel Martin Lemus De Aguinaga
 
